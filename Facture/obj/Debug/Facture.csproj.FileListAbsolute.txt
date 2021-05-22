@@ -1,0 +1,38 @@
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.csprojAssemblyReference.cache
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.Form1.resources
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.Properties.Resources.resources
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.csproj.GenerateResource.cache
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.csproj.CoreCompileInputs.cache
+C:\Users\Electronic Store\source\repos\Facture\Facture\bin\Debug\Facture.exe.config
+C:\Users\Electronic Store\source\repos\Facture\Facture\bin\Debug\Facture.exe
+C:\Users\Electronic Store\source\repos\Facture\Facture\bin\Debug\Facture.pdb
+C:\Users\Electronic Store\source\repos\Facture\Facture\bin\Debug\MetroFramework.dll
+C:\Users\Electronic Store\source\repos\Facture\Facture\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.csproj.CopyComplete
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.exe
+C:\Users\Electronic Store\source\repos\Facture\Facture\obj\Debug\Facture.pdb
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\Database1.mdf
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\Facture.exe.config
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\Facture.exe
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\Facture.pdb
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Facture\Facture\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.Client.resources
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.Form1.resources
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.Properties.Resources.resources
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.csproj.CopyComplete
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.exe
+C:\Users\Admin\Desktop\Facture\Facture\obj\Debug\Facture.pdb
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.csprojAssemblyReference.cache
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.Client.resources
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.Print_Facture.resources
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.Form1.resources
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.Properties.Resources.resources
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.csproj.GenerateResource.cache
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.csproj.CoreCompileInputs.cache
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.exe
+C:\Users\15-bs014nl hp\Desktop\Facture2\Facture\obj\Debug\Facture.pdb
